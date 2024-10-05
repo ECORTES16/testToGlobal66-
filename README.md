@@ -18,3 +18,7 @@ Este proyecto es una prueba que debe cumplir un objetivo funcional segun este di
   pokemon en el campo del buscador (input search)
   
   
+para inciar el proyecto:
+1. clonar el proyecto.
+2. ejecutar pnpm install o sudo pnpm install
+3. ejecutar pnpm dev
